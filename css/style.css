@@ -5,6 +5,7 @@ body {
 header {
   background-color: #373738;
   padding: 15px;
+  
 }
 header ul {
   float: right;
@@ -20,6 +21,7 @@ header p {
 .heroImg {
   background-color: #EBEBEB;
   padding: 100px 15px;
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/016/242/223/small/abstract-texture-background-template-of-water-sea-aqua-ocean-river-or-mountain-doodle-seamless-wavy-line-curve-linear-wave-free-form-repeat-pattern-stripe-ripple-flat-illustration-design-vector.jpg);
 }
 .content {
   max-width: 300px;
@@ -64,12 +66,13 @@ footer li {
   justify-content: center;
   margin: 1%;
   align-items: center;
-  min-width: 400px;
+  min-width: 300px;
+  background-color: antiquewhite;
 }
 
 .skill img{
 max-width: 200px;
-
+background-color: burlywood;
 }
 
 .workGrid{
@@ -116,9 +119,10 @@ h1{
 
 .workImg{
   display: flex;
-  justify-content: end;
+  justify-content: center;
   margin: 1%;
   padding: 1%;
+  background-color: beige;
 }
 
 /* button{
