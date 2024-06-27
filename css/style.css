@@ -21,7 +21,7 @@ header p {
 .heroImg {
   background-color: #EBEBEB;
   padding: 100px 15px;
-  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/016/242/223/small/abstract-texture-background-template-of-water-sea-aqua-ocean-river-or-mountain-doodle-seamless-wavy-line-curve-linear-wave-free-form-repeat-pattern-stripe-ripple-flat-illustration-design-vector.jpg);
+  background-image: url(https://t3.ftcdn.net/jpg/07/81/92/38/240_F_781923813_50tCPTSg8nsXY8T1d6J2tHx5CJSqk4F1.jpg);
 }
 .content {
   max-width: 300px;
@@ -62,7 +62,7 @@ footer li {
   display: flex;
   flex-direction: column;
   width: 30%;
-  outline: 1px solid red;
+  /* outline: 1px solid red; */
   justify-content: center;
   margin: 1%;
   align-items: center;
@@ -83,7 +83,7 @@ background-color: burlywood;
   column-gap: 15px;
   row-gap: 5px;
   margin: 1%;
-  outline: 1px solid red;
+  /* outline: 1px solid red; */
 }
 
 p{
@@ -123,6 +123,7 @@ h1{
   margin: 1%;
   padding: 1%;
   background-color: beige;
+  min-width: 200px;
 }
 
 /* button{
